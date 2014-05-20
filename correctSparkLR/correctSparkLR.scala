@@ -1,4 +1,4 @@
-package com.ibm.eti
+package com.anphoenix.demo
 
 import java.util.Random
 import scala.math.exp
